@@ -1,4 +1,4 @@
-# Getting started with Backbone and Rails
+# Backbone and Rails
 
 
 
